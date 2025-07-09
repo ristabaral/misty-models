@@ -48,8 +48,8 @@ The notebook includes:
   - **GRED**: A GPT-2-medium-based causal language model trained to generate robot behavior sequences conditioned on emotion labels.
 
 - ✅ **Model Evaluation**
-  - EMRO:  Evaluated using accuracy and confusion matrix on test data.
-  - GRED: Assessed based on the novelty of generated behaviors and their emotional accuracy (e.g., via EMRO predictions ).
+  -**EMRO**:  Evaluated using accuracy and confusion matrix on test data.
+  -**GRED**: Assessed based on the novelty of generated behaviors and their emotional accuracy (e.g., via EMRO predictions ).
 
 ## 🔗 Hugging Face Model Cards
 You can explore and use  the finalized models here:
