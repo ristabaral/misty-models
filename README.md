@@ -54,10 +54,10 @@ The notebook includes:
 
 ## 🔗 Hugging Face Model Cards
 You can explore and use  the finalized models here:
-- ** EMRO-Misty (Emotion Classification)**  
+- **EMRO-Misty (Emotion Classification)**  
   [bsu-slim/emro-misty on Hugging Face](https://huggingface.co/bsu-slim/emro-misty)
 
-- ** GRED-Misty (Behavior Generation)**  
+- **GRED-Misty (Behavior Generation)**  
   [bsu-slim/gred-misty on Hugging Face](https://huggingface.co/bsu-slim/gred-misty)
 
 Each model card includes sample usage code and downloadable model files.
