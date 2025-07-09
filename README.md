@@ -49,6 +49,7 @@ The notebook includes:
 
 - ✅ **Model Evaluation**
   -**EMRO**:  Evaluated using accuracy and confusion matrix on test data.
+  
   -**GRED**: Assessed based on the novelty of generated behaviors and their emotional accuracy (e.g., via EMRO predictions ).
 
 ## 🔗 Hugging Face Model Cards
