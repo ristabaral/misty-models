@@ -12,7 +12,7 @@ Both the models are trained on emotion-behavior data collected from Misty robot 
 
 **Purpose**: Classify robot behaviors into emotional categories.  
 **Base Architecture**: Fine-tuned RoBERTa  
-**Inputs**: Robot behavior descriptions  
+**Inputs**: A text sequence representing Misty robot behaviors
 **Outputs**: Emotion predictions  
 
 #### Emotion Classes:
@@ -34,7 +34,7 @@ Both the models are trained on emotion-behavior data collected from Misty robot 
 **Purpose**: Generate robot behavior sequences conditioned on given emotion labels.  
 **Base Architecture**: Fine-tuned GPT-2 Medium  
 **Inputs**: Emotion label  
-**Outputs**: Robot behavior descriptions 
+**Outputs**: A text sequence representing Misty robot behaviors
 
 
 ## 📘 What's Included in the Notebook?
