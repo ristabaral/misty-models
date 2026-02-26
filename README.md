@@ -71,8 +71,12 @@ https://ieeexplore.ieee.org/document/11246523
   booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
   title={Recognizing and Generating Novel Emotional Behaviors on Two Robotic Platforms}, 
   year={2025},
+  volume={},
+  number={},
   pages={21503-21510},
-  doi={10.1109/IROS60139.2025.11246523}
+  keywords={Training;Emotion recognition;Behavioral sciences;Robots;Intelligent robots},
+  doi={10.1109/IROS60139.2025.11246523}}
+
 }
 
 
