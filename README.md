@@ -61,4 +61,18 @@ You can explore and use  the finalized models here:
   [bsu-slim/gred-misty on Hugging Face](https://huggingface.co/bsu-slim/gred-misty)
 
 Each model card includes sample usage code and downloadable model files.
+## 📖 Citation
+If you use this code or the provided models in your research, please cite the following paper:
+**Recognizing and Generating Novel Emotional Behaviors on Two Robotic Platforms** 
+https://ieeexplore.ieee.org/document/11246523
+```bibtex
+@INPROCEEDINGS{11246523,
+  author={Baral, Rista and Grenz, Bethany and Kennington, Casey},
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Recognizing and Generating Novel Emotional Behaviors on Two Robotic Platforms}, 
+  year={2025},
+  pages={21503-21510},
+  doi={10.1109/IROS60139.2025.11246523}
+}
+
 
